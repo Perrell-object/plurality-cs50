@@ -4,7 +4,7 @@
 
 ### Description
 
-Create a program that simulate a plurality vote election
+Create a program that simulates a plurality vote election
 ### How to use
 
 RUN plurality Alice Bob_
@@ -18,7 +18,7 @@ The line #define MAX 9 is some syntax used here to mean that MAX is a constant (
 
 ### Technologies
 - C Programming
-- Alogrithms
+- Algorithms
 
 ### Code Snippet
 
